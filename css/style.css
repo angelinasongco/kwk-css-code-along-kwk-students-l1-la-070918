@@ -1,1 +1,25 @@
 /* add CSS class and element and selectors here */
+  body {
+      background-image: url(https://media.giphy.com/media/yr7n0u3qzO9nG/giphy.gif);
+      font-size: 150%;
+    }
+    
+    /*h1 {*/
+    /*  color: blue;*/
+    /*}*/
+    
+    /*h2 {*/
+    /*  color:red;*/
+    /*}*/
+    
+    
+    .info-section {
+      font-size: 300%;
+      color: green;
+      font-family: 'Lobster', cursive;
+      border: 1px dotted red;
+    }
+    
+    #title-section {
+      color: red;
+    }
